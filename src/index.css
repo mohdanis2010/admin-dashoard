@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*  ############################ */
+/*  Added only global CSS here, Other's elements style from styled-component  */
+
+.form-wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+
+
+
+nav {
+  width: 100%;
+  margin: 0 auto;
+  background: #6996f1;
+  height: 70px;
+  line-height: 70px;
+}
+
+nav ul li {
+  display: inline;
+  list-style-type: none;
+  text-align: center;
+  padding: 30px;
+}
+
+nav ul li a {
+  margin: 50px 0;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+table {
+  margin-top: 50px;
+}
+.form-group label{
+  color: rgb(46, 44, 44);
+  text-align: left;
+ }
+  
+
+
+.App-link {
+  color: #61dafb;
+}
+
+.btn-small {
+  background-color:white;
+  color: #320a7d;
+  border: none;
+  font-size: 15px;
+  cursor: pointer;
+}
+.pagination-btn{
+  background-color: #63D1F4;
+  color: rgb(19, 17, 17);
+  padding: 8px;
+  width: 70px;
+  border-radius: 4px;
+  margin-right: 20px;
+  border: none;
+  cursor: pointer;
+}
+.pagination-btn-disabled{
+  background-color: #F5F5F5;
+  color: rgb(19, 17, 17);
+  padding: 8px;
+  width: 70px;
+  border-radius: 4px;
+  margin-right: 20px;
+  border: none;
+  cursor:not-allowed !important;
+  cursor: pointer;
+}
+
+.search-text {
+  font-size: 18px;
+  color: #606060;
+  margin-right: 8px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+input[type="search"]
+ {
+  width: 20%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-left: 7px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+button[type="submit"] {
+  background-color: #4caf50;
+  font-size: 18px;
+  color: white;
+  padding: 12px 40px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top:5px;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+
+.error {
+  
+  color: red;
+}
+

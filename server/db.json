@@ -1,0 +1,76 @@
+{
+  "customers": [
+    {
+      "first_name": "Mohammad Anis",
+      "last_name": "Ahmad",
+      "email": "mohdanis2010@gmail.com",
+      "phone": "+65 111111",
+      "address": "Hougang street 61",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "first_name": "John",
+      "last_name": "Rober",
+      "email": "abc@mail.com",
+      "phone": "98989",
+      "address": "Serangoon",
+      "description": "Test",
+      "id": 2
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Shon",
+      "email": "robo@gmail.com",
+      "phone": "6767676",
+      "address": "abbc@yahoo.com",
+      "description": "test",
+      "id": 3
+    },
+    {
+      "first_name": "Shane",
+      "last_name": "Alberto",
+      "email": "alberto@hotmail.com",
+      "phone": "132323",
+      "address": "CBD",
+      "description": "one",
+      "id": 4
+    },
+    {
+      "first_name": "Roby",
+      "last_name": "David",
+      "email": "roby@yahoo.com",
+      "phone": "45646465",
+      "address": "Kovan",
+      "description": "Singapore",
+      "id": 5
+    },
+    {
+      "first_name": "Riya",
+      "last_name": "Lee",
+      "email": "riya@mail.com",
+      "phone": "2333",
+      "address": "ssssss",
+      "description": "Test",
+      "id": 6
+    },
+    {
+      "first_name": "Prem",
+      "last_name": "Chawl",
+      "email": "prem@gmail.com",
+      "phone": "232323",
+      "address": "UK",
+      "description": "test",
+      "id": 7
+    },
+    {
+      "first_name": "Shaml",
+      "last_name": "T",
+      "email": "abc@mail.com",
+      "phone": "1212121",
+      "address": "dddd",
+      "description": "test",
+      "id": 8
+    }
+  ]
+}

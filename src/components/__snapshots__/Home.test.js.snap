@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="text-center"
+    >
+      <h2>
+        No customer found at the moment
+      </h2>
+    </div>
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="sc-AxjAm jaCnSd"
+        >
+          <label
+            class="search-text"
+          >
+            Search Customer:
+            <input
+              name="search"
+              type="search"
+              value=""
+            />
+          </label>
+          <div
+            class="sc-AxheI emqWSV"
+          >
+            No matching customer.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
