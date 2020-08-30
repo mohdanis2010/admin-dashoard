@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This Assignment using local DB using JSON SERVER
+# This Assignment using local DB using JSON SERVER
 
 In the project directory, you can run:
 
